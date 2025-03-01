@@ -1,0 +1,9 @@
+{
+	"name": "adf-course-sanskar",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8b244938-274e-4c6d-8b20-0d4e978d6765",
+		"tenantId": "16b6ba30-4b14-46b3-bed1-6eab1d11f5a9"
+	}
+}
